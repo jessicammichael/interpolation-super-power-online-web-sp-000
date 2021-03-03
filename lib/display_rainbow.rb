@@ -10,4 +10,4 @@ display_rainbow("Y: yellow")
 display_rainbow("G: green")
 display_rainbow("B: blue")
 display_rainbow("I: indigo")
-display_rainbow("V: violet"
+display_rainbow("V: violet")
